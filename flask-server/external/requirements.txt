@@ -1,0 +1,4 @@
+firebase-admin
+slither-analyzer
+flask
+flask-cors
